@@ -1,6 +1,6 @@
 # 📦 GOG DLC Installer
 
-**➡️ Ready-to-use executable available in [Releases](link_do_releases)!** 🚀
+**➡️ Ready-to-use executable available in [Releases](https://github.com/yoxan101/gog-dlc-installer/releases/tag/alpha)!** 🚀
 
 This project is a tool designed to automate the installation of GOG DLCs, streamlining the process of installing multiple executable (.exe) files sequentially.
 
