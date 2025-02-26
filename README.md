@@ -1,9 +1,10 @@
 # 📦 GOG DLC Installer
 
-**➡️ Ready-to-use executable available in [Releases](https://github.com/yoxan101/gog-dlc-installer/releases/tag/alpha)!** 🚀
 ## ⚠️ Warning
 This program may be flagged by Windows Defender or other antivirus software due to its automation of executable files. If this occurs, you may need to add an exception or temporarily disable your antivirus software.
 ## ⚠️ Warning
+
+**➡️ Ready-to-use executable available in [Releases](https://github.com/yoxan101/gog-dlc-installer/releases/tag/alpha)!** 🚀
 
 This release provides a compiled .exe version of the GOG DLC Installer, allowing for easy installation of your GOG DLCs. Download and launch the installer without any Python dependencies. Please be aware that the .exe might trigger antivirus warnings due to its automated execution of installers.
 
